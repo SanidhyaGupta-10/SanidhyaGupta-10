@@ -1,6 +1,4 @@
 ## Hi there 👋
-**SanidhyaGupta-10/SanidhyaGupta-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 # 💫 About Me:
 👨‍💻 Learning Web Development <br>⚡ Currently exploring: JavaScript, React & Next.js <br>🚀 Building mini-projects and improving every day <br>📫 Portfolio coming soon.<br>
