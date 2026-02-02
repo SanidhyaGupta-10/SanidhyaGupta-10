@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Learning Web Development<br>⚡ Currently exploring: JavaScript, React & Next.js<br>🚀 Building mini-projects and improving every day<br>📫 Portfolio (https://sanidhy-portfolio.vercel.app/)
+👨‍💻 Learning App Development<br>⚡ Currently exploring: JavaScript, React & Next.js<br>🚀 Building mini-projects and improving every day<br>📫 Portfolio (https://sanidhy-portfolio.vercel.app/)
 
 
 ## 🌐 Socials:
