@@ -1,5 +1,10 @@
-# 💫 About Me:
-👨‍💻 Learning App Development<br>⚡ Currently exploring: JavaScript, React & Next.js<br>🚀 Building mini-projects and improving every day<br>📫 Portfolio (https://sanidhy-portfolio.vercel.app/)
+💫 About Me
+
+👨‍💻 App & Web Full-Stack Developer
+⚡ Building with Typescript, React & Next.js
+🧠 Deep diving into backend architecture, APIs, authentication & databases
+🚀 Preparing to level up with Go for high-performance backend systems
+📫 Portfolio: https://sanidhy-portfolio.vercel.app/
 
 
 # 💻 Tech Stack:
