@@ -1,10 +1,10 @@
 💫 About Me
 
-👨‍💻 App & Web Full-Stack Developer
-⚡ Building with Typescript, React & Next.js
-🧠 Deep diving into backend architecture, APIs, authentication & databases
-🚀 Preparing to level up with Go for high-performance backend systems
-📫 Portfolio: https://sanidhy-portfolio.vercel.app/
+👨‍💻 App & Web Full-Stack Developer <br>
+⚡ Building with Typescript, React & Next.js <br>
+🧠 Deep diving into backend architecture, APIs, authentication & databases <br>
+🚀 Preparing to level up with Go for high-performance backend systems <br>
+📫 Portfolio: https://sanidhy-portfolio.vercel.app <br>
 
 
 # 💻 Tech Stack:
