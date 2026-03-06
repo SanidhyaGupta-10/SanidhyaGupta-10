@@ -1,4 +1,4 @@
-💫 About Me
+# 💫 About Me
 
 👨‍💻 App & Web Full-Stack Developer <br>
 ⚡ Building with Typescript, React & Next.js <br>
