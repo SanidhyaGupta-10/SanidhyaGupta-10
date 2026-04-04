@@ -2,7 +2,7 @@
 
 👨‍💻 App & Web Full-Stack Developer <br>
 ⚡ Building with Typescript, React & Next.js <br>
-🔥 Now Leaning Generative-AI
+🔥 Now Leaning Generative-AI <br>
 🧠 Deep diving into backend architecture, APIs, authentication & databases <br>
 🚀 Preparing to level up with Go for high-performance backend systems <br>
 📫 Portfolio: https://sanidhy-portfolio.vercel.app <br>
