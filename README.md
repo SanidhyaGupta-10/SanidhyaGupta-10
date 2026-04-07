@@ -109,9 +109,9 @@ My goal is to design and build **scalable, secure, high-performance systems that
 
 ### Current Roadmap
 
-• Master **Go (Golang)** for high-performance backend systems
-• Build advanced **AI-powered developer tools**
-• Explore **distributed systems and scalable infrastructure**
+• Master **Go (Golang)** for high-performance backend systems <br>
+• Build advanced **AI-powered developer tools** <br>
+• Explore **distributed systems and scalable infrastructure** <br>
 
 ---
 
