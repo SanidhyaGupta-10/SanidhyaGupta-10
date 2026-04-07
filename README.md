@@ -128,7 +128,3 @@ https://github.com/SanidhyaGupta-10
 </p>
 
 ---
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/SanidhyaGupta-10/SanidhyaGupta-10/blob/output/github-contribution-grid-snake.svg)
