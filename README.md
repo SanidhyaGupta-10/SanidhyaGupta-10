@@ -2,6 +2,10 @@
 
 ### 💻 Full-Stack App & Web Developer
 
+# 👋 Hi, I'm Sanidhya Gupta
+
+### 💻 Full-Stack App & Web Developer
+
 I build **AI-powered systems, developer tools, and scalable backend infrastructure** using **TypeScript, React, and Next.js**.
 
 Currently focused on **Generative AI development**, backend architecture, and designing **secure high-performance systems**.
@@ -10,10 +14,10 @@ Currently focused on **Generative AI development**, backend architecture, and de
 
 ![AI](https://img.shields.io/badge/Focus-Generative%20AI-blue)
 ![Backend](https://img.shields.io/badge/Focus-Backend%20Architecture-green)
-![Learning](https://img.shields.io/badge/Learning-Go-orange)
+![Advanced](https://img.shields.io/badge/Focus-Advanced%20Backend-purple)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge\&logo=vercel)](https://sanidhy-portfolio.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge\&logo=github)](https://github.com/SanidhyaGupta-10)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=vercel)](https://sanidhy-portfolio.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/SanidhyaGupta-10)
 
 ---
 
@@ -130,9 +134,9 @@ My goal is to design and build **scalable, secure, high-performance systems that
 
 ### Current Roadmap
 
-• Master **Go (Golang)** for high-performance backend systems <br>
-• Build advanced **AI-powered developer tools** <br>
-• Explore **distributed systems and scalable infrastructure** <br>
+• Master **Advanced Generative AI architectures and RAG systems** <br>
+• Build advanced **AI-powered developer tools and multi-agent systems** <br>
+• Deepen expertise in **Advanced Backend Engineering & Distributed Systems** <br>
 
 ---
 
