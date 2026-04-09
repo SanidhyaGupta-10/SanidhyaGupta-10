@@ -2,10 +2,6 @@
 
 ### 💻 Full-Stack App & Web Developer
 
-# 👋 Hi, I'm Sanidhya Gupta
-
-### 💻 Full-Stack App & Web Developer
-
 I build **AI-powered systems, developer tools, and scalable backend infrastructure** using **TypeScript, React, and Next.js**.
 
 Currently focused on **Generative AI development**, backend architecture, and designing **secure high-performance systems**.
