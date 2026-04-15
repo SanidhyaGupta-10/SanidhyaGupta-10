@@ -49,6 +49,34 @@ Topics explored:
 
 ---
 
+# 📚 Full-Stack Engineering Journey
+
+**Repository:** `Full-Stack-Engineering-Journey`
+
+*You can see my complete journey — from fundamentals to advanced full-stack engineering. This repo documents everything I learn, build, and master.*
+
+📌 **What's inside:**
+- 📁 **Organized folders** by topic (Frontend, Backend, Databases, DevOps, System Design, etc.)
+- 🧪 **Code examples** and mini-projects for each concept
+- 📝 **Detailed learning notes** and key takeaways
+- 🚀 **Progress tracking** from basic to advanced levels
+- 🎯 **Project-based learning** with real-world applications
+
+**Topics covered:**
+- **JavaScript/TypeScript** — Fundamentals → Advanced patterns → Best practices
+- **React & Next.js** — Hooks → Performance optimization → SSR/SSG → App Router
+- **Node.js/Express** — REST APIs → Middleware → Error handling → Scalable architecture
+- **Database Engineering** — PostgreSQL → MongoDB → Prisma ORM → Query optimization → Indexing
+- **Authentication & Security** — JWT → OAuth → Session management → Encryption → Security best practices
+- **Testing & Debugging** — Unit tests → Integration tests → E2E testing → Debugging techniques
+- **DevOps & Deployment** — Docker → CI/CD → Cloud deployment → Monitoring
+- **System Design** — Scalability → Load balancing → Caching → Message queues → Microservices
+- **And more as I progress...**
+
+[![View Journey](https://img.shields.io/badge/📖-View_My_Full_Stack_Journey-blue?style=for-the-badge&logo=github)](https://github.com/SanidhyaGupta-10/Full-Stack-Engineering-Journey)
+
+---
+
 # 🛠 Tech Stack
 
 <p align="center">
@@ -147,5 +175,3 @@ https://github.com/SanidhyaGupta-10
 <p align="center">
 <img src="https://visitcount.itsvg.in/api?id=SanidhyaGupta-10&icon=0&color=0"/>
 </p>
-
----
