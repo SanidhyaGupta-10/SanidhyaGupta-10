@@ -1,175 +1,73 @@
-# 👋 Hi, I'm Sanidhya Gupta
+# 👋 Sanidhya Gupta
+### Full-Stack & Generative AI Engineer
 
-### 💻 Full-Stack App & Web Developer
+> Architecting scalable backend infrastructure, AI-powered systems, and high-performance applications. 
 
-I build **AI-powered systems, developer tools, and scalable backend infrastructure** using **TypeScript, React, and Next.js**.
+Currently focused on **Generative AI orchestration**, distributed queuing, and building secure, production-ready systems using **TypeScript, Next.js, PostgreSQL, and Go**.
 
-Currently focused on **Generative AI development**, backend architecture, and designing **secure high-performance systems**.
-
-⚡ **Current Focus**
-
-![AI](https://img.shields.io/badge/Focus-Generative%20AI-blue)
-![Backend](https://img.shields.io/badge/Focus-Backend%20Architecture-green)
-![Advanced](https://img.shields.io/badge/Focus-Advanced%20Backend-purple)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=vercel)](https://sanidhy-portfolio.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/SanidhyaGupta-10)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel)](https://sanidhy-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]
 
 ---
 
-# 🤖 Current Work — Generative AI
+## 🚀 Featured Architecture & Projects
 
-I am actively documenting my journey learning **Generative AI from fundamentals to advanced AI-powered applications**.
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Zest](https://github.com/SanidhyaGupta-10/Zest)** | Distributed AI processing system exploring scalable architecture, async job queuing, and multi-provider AI routing reliability. | **Express, BullMQ, Redis, Prisma, PostgreSQL (Neon), Groq, Gemini, Claude** |
+| **[NovaTalk](https://github.com/SanidhyaGupta-10/NovaTalk-AI-Voice-Agent)** | Low-latency AI voice agent designed to automate complex phone workflows with contextual understanding and human-like clarity. | **Next.js, Vapi, Clerk, Vercel, LLMs** |
+| **[Advanced Auth](https://github.com/SanidhyaGupta-10/Advanced-MERN-TypeScript)** | Production-grade authentication service implementing secure session flows, RBAC, and scalable backend architecture. | **Node.js, Express, TypeScript, MongoDB, JWT, Zod, Bcrypt** |
+| **[PostgreSQL Lab](https://github.com/SanidhyaGupta-10/postgres-lab)** | Deep dive into database internals, focusing on query optimization, indexing strategies, and strict ACID compliance. | **PostgreSQL, SQL, Performance Tuning** |
+| **[AI Interview Prep](https://github.com/SanidhyaGupta-10/AI-Powered-Interview-Preparation-Platform)** | AI-driven platform that simulates technical interviews and performs programmatic resume evaluations via modern LLM APIs. | **React, Node.js, JWT, Gemini AI** |
 
-📌 **Primary Repository**
-
-https://github.com/SanidhyaGupta-10/GenerativeAI-with-JS-TS
-
-Topics explored:
-
-* LLM fundamentals
-* Prompt engineering
-* AI API integrations
-* RAG (Retrieval-Augmented Generation) architectures
-* AI-powered applications
+💡 **Open Source:** Zest is actively open for collaboration. Engineers interested in distributed queues or AI infrastructure are welcome to contribute.
 
 ---
 
-# 🚀 Featured Projects
+## 🤖 Generative AI & R&D
 
-| Project                                                                                                         | Description                                                                                                             | Tech Stack                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| **[Zest](https://github.com/SanidhyaGupta-10/Zest)**                                                            | Backend-heavy system exploring scalable architecture, async processing, and multi-provider AI reliability.              | **Express.js (TypeScript), BullMQ, Redis (ioredis), PostgreSQL, Prisma ORM, Groq, Gemini, Claude, OpenAI** |
-| **[NovaTalk](https://github.com/SanidhyaGupta-10/NovaTalk-AI-Voice-Agent)**                                     | Real-time AI voice agent designed to automate phone conversations with contextual understanding and human-like clarity. | **Next.js, Clerk, Vapi, LLM-based processing, Vercel**                                                     |
-| **[Advanced Auth](https://github.com/SanidhyaGupta-10/Advanced-MERN-TypeScript)**                               | Production-ready authentication system implementing secure login flows and scalable backend architecture.               | **Node.js, Express.js, TypeScript, MongoDB, JWT, Zod, Bcrypt, Resend, React, Zustand**                     |
-| **[PostgreSQL Lab](https://github.com/SanidhyaGupta-10/postgres-lab)**                                          | Structured repository exploring SQL fundamentals to advanced database concepts including indexing and ACID properties.  | **PostgreSQL, SQL, Query Optimization**                                                                    |
-| **[AI Interview Prep Platform](https://github.com/SanidhyaGupta-10/AI-Powered-Interview-Preparation-Platform)** | AI-powered platform designed to simulate technical interviews and evaluate resumes using modern AI APIs.                | **React, Node.js, JWT Authentication, Gemini AI**                                                          |
+I actively research and document advanced implementations in AI-powered applications and LLM orchestration. 
 
-💡 **Zest is open for collaboration.** Developers interested in backend systems, distributed queues, or AI infrastructure are welcome to contribute.
+📌 **[Generative AI with JS/TS](https://github.com/SanidhyaGupta-10/GenerativeAI-with-JS-TS)**
+*   **Architecture:** RAG (Retrieval-Augmented Generation) pipelines and multi-agent systems.
+*   **Integration:** API routing, rate limiting, and prompt engineering optimizations.
+*   **Core Concepts:** Fine-tuning fundamentals and context-window management.
 
----
-
-# 📚 Full-Stack Engineering Journey
-
-**Repository:** `Full-Stack-Engineering-Journey`
-
-*You can see my complete journey — from fundamentals to advanced full-stack engineering. This repo documents everything I learn, build, and master.*
-
-📌 **What's inside:**
-- 📁 **Organized folders** by topic (Frontend, Backend, Databases, DevOps, System Design, etc.)
-- 🧪 **Code examples** and mini-projects for each concept
-- 📝 **Detailed learning notes** and key takeaways
-- 🚀 **Progress tracking** from basic to advanced levels
-- 🎯 **Project-based learning** with real-world applications
-
-**Topics covered:**
-- **JavaScript/TypeScript** — Fundamentals → Advanced patterns → Best practices
-- **React & Next.js** — Hooks → Performance optimization → SSR/SSG → App Router
-- **Node.js/Express** — REST APIs → Middleware → Error handling → Scalable architecture
-- **Database Engineering** — PostgreSQL → MongoDB → Prisma ORM → Query optimization → Indexing
-- **Authentication & Security** — JWT → OAuth → Session management → Encryption → Security best practices
-- **Testing & Debugging** — Unit tests → Integration tests → E2E testing → Debugging techniques
-- **DevOps & Deployment** — Docker → CI/CD → Cloud deployment → Monitoring
-- **System Design** — Scalability → Load balancing → Caching → Message queues → Microservices
-- **And more as I progress...**
-
-[![View Journey](https://img.shields.io/badge/📖-View_My_Full_Stack_Journey-blue?style=for-the-badge&logo=github)](https://github.com/SanidhyaGupta-10/Full-Stack-Engineering-Journey)
+📌 **[Full-Stack Engineering Logs](https://github.com/SanidhyaGupta-10/Full-Stack-Engineering-Journey)**
+*A comprehensive repository documenting architectural patterns, technical deep dives, and production-ready implementations across the stack.*
+*   **System Design:** Scalability, load balancing, caching, and microservices.
+*   **Database Engineering:** Prisma ORM, Neon serverless DBs, and advanced indexing.
+*   **DevOps & Security:** Docker containerization, CI/CD pipelines, and OAuth workflows.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Technical Arsenal
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ts,react,vite,nextjs,tailwind,threejs,bun,express,postgres,prisma,docker" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,express,bun,go,postgres,mongodb,prisma,docker" />
 </p>
 
----
-
-## 🧠 Core Language
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="50">
-
-Full-stack development using **TypeScript**
+*   **Languages:** TypeScript, JavaScript, Go, SQL
+*   **Frontend:** React, Next.js, TailwindCSS, Zustand, Framer Motion, Three.js
+*   **Backend & Infrastructure:** Node.js, Express, Bun, BullMQ, Redis, Docker
+*   **Databases:** PostgreSQL (Neon), MongoDB, Prisma ORM
+*   **Generative AI:** OpenAI, Anthropic (Claude), Gemini, Groq, Vapi
 
 ---
 
-## ⚛️ Frontend & UI
+## 📊 GitHub Analytics
 
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" style="height:35px"> <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" style="height:35px"> <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" style="height:35px"> <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white&style=for-the-badge" style="height:35px"> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" style="height:35px"> <img src="https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge" style="height:35px">
-
-## Shared state & data layer
-
-<img src="https://img.shields.io/badge/Zustand-black?style=for-the-badge" style="height:35px"> <img src="https://img.shields.io/badge/TanStack_Query-FF4154?logo=reactquery&logoColor=white&style=for-the-badge" style="height:35px">
-
----
-
-## ⚙️ Backend & Infrastructure
-
-<img src="https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white&style=for-the-badge" style="height:35px"> <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" style="height:35px"> <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" style="height:35px"> <img src="https://img.shields.io/badge/Socket.io-black?logo=socketdotio&logoColor=white&style=for-the-badge" style="height:35px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" style="height:35px"> <img src="https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white&style=for-the-badge" style="height:35px">
-
----
-
-## 🗄 Database & ORM
-
-<img src="https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" style="height:35px"> <img src="https://img.shields.io/badge/Neon_Serverless_DB-00E599?style=for-the-badge" style="height:35px"> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" style="height:35px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" style="height:35px">
-
-Serverless PostgreSQL powered by **Neon** with **Prisma ORM**
-
----
-
-## 🎨 Animations & Graphics
-
-<img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black&style=for-the-badge" style="height:35px"> <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge" style="height:35px"> <img src="https://img.shields.io/badge/Motion-black?style=for-the-badge" style="height:35px">
-
-Used for **high-performance animations and 3D UI**
-
----
-
-## 🧰 Developer Tools
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" style="height:35px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" style="height:35px"> <img src="https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white&style=for-the-badge" style="height:35px">
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=SanidhyaGupta-10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
 <img src="https://streak-stats.demolab.com?user=SanidhyaGupta-10&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-
-
----
-
-# 📈 Contribution Activity
-
-[![Sanidhya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SanidhyaGupta-10\&theme=tokyo-night\&hide_border=true)](https://github.com/SanidhyaGupta-10)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanidhyaGupta-10&theme=tokyo-night&hide_border=true)](https://github.com/SanidhyaGupta-10)
 
 ---
 
-# ⚡ Engineering Philosophy
+## ⚡ Engineering Philosophy
 
-I build projects to **deeply understand systems** — from database internals and authentication flows to AI-powered applications.
+I build to understand systems at their core—from database query optimization to orchestrating distributed microservices and integrating LLMs. My focus is always on designing **scalable, secure, and highly performant architectures** that solve complex, real-world problems.
 
-My goal is to design and build **scalable, secure, high-performance systems that solve real-world problems.**
-
-### Current Roadmap
-
-• Master **Advanced Generative AI architectures and RAG systems** <br>
-• Build advanced **AI-powered developer tools and multi-agent systems** <br>
-• Deepen expertise in **Advanced Backend Engineering & Distributed Systems** <br>
-
----
-
-# 📫 Connect With Me
-
-🌐 **Portfolio**
-https://sanidhy-portfolio.vercel.app
-
-💻 **GitHub**
-https://github.com/SanidhyaGupta-10
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=SanidhyaGupta-10&icon=0&color=0"/>
-</p>
+📫 **Let's Connect:** [Portfolio](https://sanidhy-portfolio.vercel.app) | [GitHub](https://github.com/SanidhyaGupta-10)
