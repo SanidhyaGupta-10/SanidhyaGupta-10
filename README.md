@@ -3,10 +3,9 @@
 
 > Architecting scalable backend infrastructure, AI-powered systems, and high-performance applications. 
 
-Currently focused on **Generative AI orchestration**, distributed queuing, and building secure, production-ready systems using **TypeScript, Next.js, PostgreSQL, and Go**.
+Currently focused on **Generative AI orchestration**, distributed queuing, and building secure, production-ready systems using **TypeScript, Next.js, PostgreSQL**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel)](https://sanidhy-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]
 
 ---
 
@@ -44,10 +43,10 @@ I actively research and document advanced implementations in AI-powered applicat
 ## 🛠 Technical Arsenal
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,express,bun,go,postgres,mongodb,prisma,docker" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,express,bun,postgres,mongodb,prisma,docker" />
 </p>
 
-*   **Languages:** TypeScript, JavaScript, Go, SQL
+*   **Languages:** TypeScript, JavaScript, SQL
 *   **Frontend:** React, Next.js, TailwindCSS, Zustand, Framer Motion, Three.js
 *   **Backend & Infrastructure:** Node.js, Express, Bun, BullMQ, Redis, Docker
 *   **Databases:** PostgreSQL (Neon), MongoDB, Prisma ORM
