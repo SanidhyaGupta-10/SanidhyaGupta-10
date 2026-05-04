@@ -19,7 +19,17 @@ Currently focused on **Generative AI orchestration**, distributed queuing, and b
 | **[PostgreSQL Lab](https://github.com/SanidhyaGupta-10/postgres-lab)** | Deep dive into database internals, focusing on query optimization, indexing strategies, and strict ACID compliance. | **PostgreSQL, SQL, Performance Tuning** |
 | **[AI Interview Prep](https://github.com/SanidhyaGupta-10/AI-Powered-Interview-Preparation-Platform)** | AI-driven platform that simulates technical interviews and performs programmatic resume evaluations via modern LLM APIs. | **React, Node.js, JWT, Gemini AI** |
 
-💡 **Open Source:** Zest is actively open for collaboration. Engineers interested in distributed queues or AI infrastructure are welcome to contribute.
+---
+
+## 🌟 Open Source Spotlight: [Zest](https://github.com/SanidhyaGupta-10/Zest)
+
+> **In modern web development, running heavy AI tasks (like generating notes, questions, or summaries via LLMs) synchronously can cripple user experience. Zest solves this by utilizing a robust Producer-Consumer architecture.**
+
+This repository is split into two distinct, scalable components:
+*   **The Producer (API/Client):** Ingests requests and pushes processing jobs to a distributed message queue.
+*   **The Consumer (Worker Nodes):** Asynchronously processes heavy LLM workloads via Redis and BullMQ without blocking the main event loop.
+
+🤝 **Contribute to Zest:** The project is actively open-source. Engineers interested in distributed systems, asynchronous queues, or AI infrastructure are highly encouraged to [check out the repository and contribute](https://github.com/SanidhyaGupta-10/Zest).
 
 ---
 
