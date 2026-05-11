@@ -43,10 +43,10 @@ I actively research and document advanced implementations in AI-powered applicat
 *   **Core Concepts:** Fine-tuning fundamentals and context-window management.
 
 📌 **[Full-Stack Engineering Logs](https://github.com/SanidhyaGupta-10/Full-Stack-Engineering-Journey)**
-*A comprehensive repository documenting architectural patterns, technical deep dives, and production-ready implementations across the stack.*
-*   **System Design:** Scalability, load balancing, caching, and microservices.
-*   **Database Engineering:** Prisma ORM, Neon serverless DBs, and advanced indexing.
-*   **DevOps & Security:** Docker containerization, CI/CD pipelines, and OAuth workflows.
+*A comprehensive repository documenting JS/TS mastery, deep backend architectures, and high-performance creative frontends.*
+*   **JS/TS Mastery:** Advanced type systems, design patterns, and core language mechanics.
+*   **Backend Deep Dive:** Node.js/Express internals, API architecture, data fetching, and optimization.
+*   **Creative Frontend:** Building interactive, animated, and scalable UIs using React and modern tooling.
 
 ---
 
