@@ -1,6 +1,6 @@
 # 👋 Sanidhya Gupta
 
-### Full-Stack Developer | AI Systems Enthusiast
+### Full-Stack Developer | AI Systems Enthusiast | Currently Learning GO
 
 Building AI-powered applications, backend systems, and scalable web experiences with TypeScript.
 
@@ -39,7 +39,6 @@ A distributed AI processing system designed to offload heavy LLM workloads from 
 - Queue-based architectures
 - Multi-provider LLM execution
 - Backend scalability
-
 ---
 
 ## 🛠 Tech Stack
