@@ -1,6 +1,6 @@
 # 👋 Sanidhya Gupta
 
-### Full-Stack Developer | AI Systems Enthusiast
+### Full-Stack Developer | AI Systems Enthusiast | Learning GO
 
 Building AI-powered applications, backend systems, and scalable web experiences with TypeScript.
 
