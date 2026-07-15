@@ -22,24 +22,6 @@ Currently exploring distributed architectures, asynchronous job processing, LLM 
 
 ---
 
-## 🌟 Open Source Spotlight
-
-### [Zest](https://github.com/SanidhyaGupta-10/Zest)
-
-A distributed AI processing system designed to offload heavy LLM workloads from the request lifecycle using queue-based architecture.
-
-**Architecture**
-- API layer receives and validates requests
-- Jobs are pushed into Redis-backed queues
-- Worker services process AI workloads asynchronously
-- Results are returned without blocking application performance
-
-**Focus Areas**
-- Distributed job processing
-- Queue-based architectures
-- Multi-provider LLM execution
-- Backend scalability
----
 
 ## 🛠 Tech Stack
 
