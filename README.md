@@ -26,7 +26,7 @@ Currently exploring distributed architectures, asynchronous job processing, LLM 
 ## 🛠 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,express,bun,postgres,mongodb,prisma,docker,rust,supabase" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,express,bun,postgres,mongodb,prisma,docker,supabase" />
 </p>
 
 *   **Languages:** TypeScript, JavaScript, SQL
