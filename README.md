@@ -14,14 +14,13 @@ Currently exploring distributed architectures, asynchronous job processing, LLM 
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Zest](https://github.com/SanidhyaGupta-10/Zest)** | Distributed AI processing system built around asynchronous queues, worker services, and multi-provider LLM execution. | **Express, BullMQ, Redis, Prisma, PostgreSQL, Groq, Gemini, Claude** |
+| **[Axiom Search](https://github.com/SanidhyaGupta-10/Axiom-Search)** | An AI-powered search engine orchestrating real-time web retrieval and multi-agent language models to synthesize factual, cited answers. | **React, Bun, Express, Prisma, Supabase, Groq, OpenRouter, Tavily** |
 | **[NovaTalk](https://github.com/SanidhyaGupta-10/NovaTalk-AI-Voice-Agent)** | AI voice agent capable of handling conversational phone workflows with real-time responses. | **Next.js, Vapi, Clerk, Vercel** |
 | **[Advanced Auth](https://github.com/SanidhyaGupta-10/Advanced-MERN-TypeScript)** | Authentication and authorization service implementing RBAC, secure sessions, and production-grade security practices. | **Node.js, Express, TypeScript, MongoDB** |
 | **[PostgreSQL Lab](https://github.com/SanidhyaGupta-10/postgres-lab)** | Experiments and notes covering database design, indexing, query optimization, and PostgreSQL internals. | **PostgreSQL, SQL** |
 | **[AI Interview Prep](https://github.com/SanidhyaGupta-10/AI-Powered-Interview-Preparation-Platform)** | AI-powered interview preparation platform with resume analysis and technical interview simulations. | **React, Node.js, Gemini AI** |
 
 ---
-
 
 ## 🛠 Tech Stack
 
@@ -31,9 +30,10 @@ Currently exploring distributed architectures, asynchronous job processing, LLM 
 
 *   **Languages:** TypeScript, JavaScript, SQL
 *   **Frontend:** React, Next.js, TailwindCSS, Zustand, Framer Motion, Three.js
-*   **Backend & Infrastructure:** Node.js, Express, Bun, BullMQ, Redis, Docker
-*   **Databases:** PostgreSQL (Neon), MongoDB, Prisma ORM
-*   **Generative AI:** OpenAI, Anthropic (Claude), Gemini, Groq, Vapi
+*   **Backend & Infrastructure:** Node.js, Bun, Express, BullMQ, Redis, Docker
+*   **Databases:** PostgreSQL (Neon), Supabase, MongoDB, Prisma ORM
+*   **Generative AI & Search:** OpenAI, Anthropic (Claude), Gemini, Groq, OpenRouter, Vapi, Tavily
+
 ---
 
 ## 📊 GitHub Analytics
