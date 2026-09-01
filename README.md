@@ -1,38 +1,38 @@
-# 👋 Sanidhya Gupta
+# ⚡ Sanidhya Gupta
 
-### Full-Stack Developer | AI Systems Enthusiast
+### Full-Stack Software Engineer | AI Systems & Infrastructure
 
-Building AI-powered applications, backend systems, and scalable web experiences with TypeScript.
+Architecting high-performance backend systems, scalable web applications, and generative AI infrastructure. 
 
-Currently exploring distributed architectures, asynchronous job processing, LLM integrations, and modern backend engineering.
+Currently engineering Go-based microservices, deploying RAG (Retrieval-Augmented Generation) pipelines, and orchestrating asynchronous task queues for distributed data processing.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel)](https://sanidhy-portfolio.vercel.app)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Production & Featured Systems
 
-| Project | Description | Tech Stack |
+| Project | Architecture & Scope | Tech Stack |
 | :--- | :--- | :--- |
-| **[Axiom Search](https://github.com/SanidhyaGupta-10/Axiom-Search)** | An AI-powered search engine orchestrating real-time web retrieval and multi-agent language models to synthesize factual, cited answers. | **React, Bun, Express, Prisma, Supabase, Groq, OpenRouter, Tavily** |
-| **[NovaTalk](https://github.com/SanidhyaGupta-10/NovaTalk-AI-Voice-Agent)** | AI voice agent capable of handling conversational phone workflows with real-time responses. | **Next.js, Vapi, Clerk, Vercel** |
-| **[Advanced Auth](https://github.com/SanidhyaGupta-10/Advanced-MERN-TypeScript)** | Authentication and authorization service implementing RBAC, secure sessions, and production-grade security practices. | **Node.js, Express, TypeScript, MongoDB** |
-| **[PostgreSQL Lab](https://github.com/SanidhyaGupta-10/postgres-lab)** | Experiments and notes covering database design, indexing, query optimization, and PostgreSQL internals. | **PostgreSQL, SQL** |
-| **[AI Interview Prep](https://github.com/SanidhyaGupta-10/AI-Powered-Interview-Preparation-Platform)** | AI-powered interview preparation platform with resume analysis and technical interview simulations. | **React, Node.js, Gemini AI** |
+| **[Axiom Search](https://github.com/SanidhyaGupta-10/Axiom-Search)** | Engineered a real-time AI search orchestrator leveraging multi-agent LLM routing to synthesize cited, low-latency factual responses. | **React, Bun, Express, Prisma, Supabase, Groq, OpenRouter, Tavily** |
+| **[NovaTalk](https://github.com/SanidhyaGupta-10/NovaTalk-AI-Voice-Agent)** | Architected a conversational voice agent, optimizing WebSocket streams and automated routing for real-time phone workflows. | **Next.js, Vapi, Clerk, Vercel** |
+| **[Advanced Auth](https://github.com/SanidhyaGupta-10/Advanced-MERN-TypeScript)** | Designed a production-ready authentication gateway enforcing RBAC, secure session handling, and cryptographic token validation. | **Node.js, Express, TypeScript, MongoDB** |
+| **[PostgreSQL Lab](https://github.com/SanidhyaGupta-10/postgres-lab)** | Low-level experiments profiling database internals, indexing strategies, query execution plans, and transaction isolation. | **PostgreSQL, SQL** |
+| **[AI Interview Prep](https://github.com/SanidhyaGupta-10/AI-Powered-Interview-Preparation-Platform)** | Built an automated interview simulator integrating vector-based resume analysis and generative AI for technical screening. | **React, Node.js, Gemini AI** |
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Infrastructure
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,express,bun,postgres,mongodb,prisma,docker,supabase" />
+<img src="https://skillicons.dev/icons?i=ts,go,react,nextjs,tailwind,nodejs,express,bun,postgres,mongodb,prisma,docker,supabase" />
 </p>
 
-*   **Languages:** TypeScript, JavaScript, SQL
+*   **Languages:** TypeScript, Go (Golang), JavaScript, SQL
 *   **Frontend:** React, Next.js, TailwindCSS, Zustand, Framer Motion, Three.js
-*   **Backend & Infrastructure:** Node.js, Bun, Express, BullMQ, Redis, Docker
-*   **Databases:** PostgreSQL (Neon), Supabase, MongoDB, Prisma ORM
-*   **Generative AI & Search:** OpenAI, Anthropic (Claude), Gemini, Groq, OpenRouter, Vapi, Tavily
+*   **Backend & Infra:** Node.js, Bun, Go Microservices, Express, BullMQ, Redis, Docker, WebSockets
+*   **Databases:** PostgreSQL (Neon DB), Supabase, MongoDB Atlas, Prisma ORM
+*   **AI & Systems:** LLM Orchestration, RAG Pipelines, Vector Stores, OpenAI, Anthropic, Gemini, Groq, OpenRouter, Vapi
 
 ---
 
@@ -49,8 +49,6 @@ Currently exploring distributed architectures, asynchronous job processing, LLM 
 
 ## ⚡ Engineering Philosophy
 
-I enjoy building systems that help me understand software at a deeper level—from databases and backend infrastructure to AI-powered applications and distributed architectures.
-
-Most of my projects are driven by curiosity, experimentation, and a desire to learn how systems behave under real-world constraints.
+I build resilient software to solve complex engineering bottlenecks. Whether it is deploying RAG-based AI architectures, transitioning monoliths to high-throughput Go microservices, or profiling relational database query plans, my focus is on strict typing, performance constraints, and shipping production-ready code. Software is about taming complexity, and I learn best by breaking systems down to their bare infrastructure.
 
 📫 **Portfolio:** https://sanidhy-portfolio.vercel.app
