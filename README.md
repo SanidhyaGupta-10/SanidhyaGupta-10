@@ -7,6 +7,7 @@ Architecting high-performance backend systems, scalable web applications, and ge
 Currently engineering Go-based microservices, deploying RAG (Retrieval-Augmented Generation) pipelines, and orchestrating asynchronous task queues for distributed data processing.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel)](https://sanidhy-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanidhya-gupta-492529430/)
 
 ---
 
@@ -32,7 +33,7 @@ Currently engineering Go-based microservices, deploying RAG (Retrieval-Augmented
 *   **Frontend:** React, Next.js, TailwindCSS, Zustand, Framer Motion, Three.js
 *   **Backend & Infra:** Node.js, Bun, Go Microservices, Express, BullMQ, Redis, Docker, WebSockets
 *   **Databases:** PostgreSQL (Neon DB), Supabase, MongoDB Atlas, Prisma ORM
-*   **AI & Systems:** LLM Orchestration, RAG Pipelines, Vector Stores, OpenAI, Anthropic, Gemini, Groq, OpenRouter, Vapi
+*   **AI & Systems:** LLM Orchestration, RAG Pipelines, Vector Stores, OpenAI, Anthropic, Gemini, Groq, OpenRouter
 
 ---
 
@@ -51,4 +52,5 @@ Currently engineering Go-based microservices, deploying RAG (Retrieval-Augmented
 
 I build resilient software to solve complex engineering bottlenecks. Whether it is deploying RAG-based AI architectures, transitioning monoliths to high-throughput Go microservices, or profiling relational database query plans, my focus is on strict typing, performance constraints, and shipping production-ready code. Software is about taming complexity, and I learn best by breaking systems down to their bare infrastructure.
 
-📫 **Portfolio:** https://sanidhy-portfolio.vercel.app
+📫 **Portfolio:** https://sanidhy-portfolio.vercel.app  
+🔗 **LinkedIn:** https://www.linkedin.com/in/sanidhya-gupta-492529430/
