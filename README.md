@@ -26,7 +26,7 @@ Currently engineering Go-based microservices, deploying RAG (Retrieval-Augmented
 ## 🛠 Tech Stack & Infrastructure
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=ts,go,react,nextjs,tailwind,nodejs,express,bun,postgres,mongodb,prisma,docker,supabase,bash,kubernetes,redis,linux" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,express,bun,postgres,mongodb,prisma,docker,supabase,bash,linux" />
 </p>
 
 *   **Languages:** TypeScript, Go (Golang), JavaScript, SQL
