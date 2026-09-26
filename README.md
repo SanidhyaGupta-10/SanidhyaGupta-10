@@ -29,7 +29,7 @@ Currently engineering Go-based microservices, deploying RAG (Retrieval-Augmented
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,express,bun,postgres,mongodb,prisma,docker,supabase,bash,linux,rust" />
 </p>
 
-*   **Languages:** TypeScript, Go (Golang), JavaScript, SQL
+*   **Languages:** TypeScript, Go (Golang), JavaScript, SQL, Rust
 *   **Frontend:** React, Next.js, TailwindCSS, Zustand, Framer Motion, Three.js
 *   **Backend & Infra:** Node.js, Bun, Go Microservices, Express, BullMQ, Redis, Docker, WebSockets
 *   **Databases:** PostgreSQL (Neon DB), Supabase, MongoDB Atlas, Prisma ORM
