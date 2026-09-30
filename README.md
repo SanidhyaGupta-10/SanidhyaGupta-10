@@ -1,6 +1,6 @@
 # ⚡ Sanidhya Gupta
 
-### Full-Stack Software Engineer | Infrastructure 
+### Full-Stack Software Engineer | Infrastructure Developer
 
 Architecting high-performance backend systems, scalable web applications, and generative AI infrastructure. 
 
